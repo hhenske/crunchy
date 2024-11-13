@@ -1,6 +1,6 @@
 ## Crunchy Report Generator
 [Crunchy Report Generator](archive/HISTORY.md) is a Python package that accepts a loosely/specially formatted set of data and generates a report.
-<table style="border-collapse: collapse; border: none;">
+<table style="border: none;">
       <tr>
             <td>
 In the spirit of the acronym, "Crunch Really Useful Numbers Coded Hackishly," the guiding principle is for the data input format to be as reasonably readable, flexible, and maintainable as possible.  For example, instead of a CSV format that can be a bit unwieldy to read, the data can be freely spread out by spaces to arrange it by columns.  Directives can be added to specify what the report should look like.  Plugins can be used to provide additional functionality such as running totals, averages, row/column sums, graphs, data science, and more.
